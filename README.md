@@ -23,4 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipulhere&show_icons=true&locale=en" alt="vipulhere" /></p>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Vipulhere&theme=react-dark&hide_border=true&area=true)
 
