@@ -20,6 +20,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipulhere&show_icons=true&locale=en&layout=compact" alt="vipulhere" /></p>
 
+<br>
+<hr>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipulhere&show_icons=true&locale=en" alt="vipulhere" /></p>
 
 
