@@ -14,7 +14,7 @@
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 😁
 
-- 💬 Ask me about **Linux, Python, C++, Java, Web Devlopment**
+- 💬 Ask me about **Linux, Python, C++, Java, Web Development**
 
 - 📫 How to reach me **krvipul28@gmail.com**
 <br>
