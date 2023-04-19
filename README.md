@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **krvipul28@gmail.com**
 
-- 👨‍💻 Have a look on my port-folio [https://vipulkumar-portfolio.netlify.app/](https://vipulkumar-portfolio.netlify.app/)
+- 👨‍💻 Have a look on my port-folio [Live](https://vipulkumar-portfolio.netlify.app/)
 
 
 <br>
