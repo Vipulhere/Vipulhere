@@ -13,10 +13,11 @@
 <p>
 <a align="center"><img align="left" alt="gif" src="https://github.com/Vipulhere/Vipulhere/blob/main/gif.gif" width="400" height="400</a>
 
-<a align="center"><img align="right" alt="gif" src="https://github.com/Vipulhere/Vipulhere/blob/main/github.gif" width="400" height="400"></a></p><br>
-<br>
+<a align="center"><img align="right" alt="gif" src="https://github.com/Vipulhere/Vipulhere/blob/main/github.gif" width="400" height="400"></a></p><br/>
+<br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vipulhere&label=Profile%20views&color=0e75b6&style=flat" alt="vipulhere" /> </p>
-<br>
+<br/>
+<br/>
     
 
 
