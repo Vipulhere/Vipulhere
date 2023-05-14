@@ -9,18 +9,17 @@
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 <br>
-<hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipulhere&label=Profile%20views&color=0e75b6&style=flat" alt="vipulhere" /> </p>
-<br>
-<hr>
+
 <div>
 <a align="center"><img align="left" alt="gif" src="https://github.com/Vipulhere/Vipulhere/blob/main/gif.gif" width="400" height="400</a>
 <a align="center"><img align="right" alt="gif" src="https://github.com/Vipulhere/Vipulhere/blob/main/github.gif" width="400" height="400"></a></div>
 <br>
 <br>
    
-    
-    
+<hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipulhere&label=Profile%20views&color=0e75b6&style=flat" alt="vipulhere" /> </p>
+<br>
+<hr>  
     
 
 
