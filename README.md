@@ -11,7 +11,7 @@
 
 <br/>
 <p>
-<a target="_blank"><img align="left" alt="gif" src="https://github.com/vipulhere/vipulhere/blob/main/gif.gif"  height="400" width="400"></a>
+<a target="_blank"><img align="left" alt="gif" src="https://github.com/vipulhere/vipulhere/blob/main/gif.gif"  height="300" width="300"></a>
 <a target="_blank"><img align="right" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/vipulhere/vipulhere/blob/main/github.gif?raw=true"></a>
     </p>
 <br/>
