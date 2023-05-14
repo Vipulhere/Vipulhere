@@ -7,7 +7,10 @@
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
-<!-- <p align="center"><img align="center" alt="gif" src="https://github.com/Vipulhere/Vipulhere/blob/main/gif.gif" width="500" height="320"></p> -->
+
+<p>
+<a align="center"><img align="left" alt="gif" src="https://github.com/Vipulhere/Vipulhere/blob/main/gif.gif" width="40" height="400</a>
+<a align="center"><img align="right" alt="gif" src="https://github.com/Vipulhere/Vipulhere/blob/main/github.gif" width="400" height="400"></a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vipulhere&label=Profile%20views&color=0e75b6&style=flat" alt="vipulhere" /> </p>
 
@@ -35,6 +38,11 @@
     <a title="krvipul@gmail.com" href="mailto:krvipul28@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="krvipul28@gmail.com" />
     </a>
+    
+<!--      <a href="https://www.instagram.com/vipulpedia/">
+        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/vipulpedia/" />
+    </a> -->
+    
 </p>
 
 <h2><i>Tech Stack</i></h2>
@@ -60,13 +68,16 @@
 <br>
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
-<h2><i>My GitHub Stats</i></h2>
+ <h2>📈 Github Stats</h2>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vipulhere&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="vipulhere" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulhere&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="vipulhere" height="139" />
-</p>
-<br>
+<p >
+ 
+![Vipul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vipulhere&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)
+<div align='center'>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vipulhere&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ &nbsp;&nbsp;&nbsp;<img height="180em" src="https://streak-stats.demolab.com?user=Vipulhere&theme=cobalt"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulhere&theme=algolia&hide=c%2B%2B&layout=compact"/> 
+</div>
+ 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Vipulhere&theme=react-dark&hide_border=true&area=true)
-
+</p
