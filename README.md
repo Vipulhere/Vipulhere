@@ -16,14 +16,12 @@
 <a align="center"><img align="right" alt="gif" src="https://github.com/Vipulhere/Vipulhere/blob/main/github.gif" width="400" height="400"></a></p>
 <br>
 <br>
-    
-
-<hr>  
+   
     
     
     
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vipulhere&label=Profile%20views&color=0e75b6&style=flat" alt="vipulhere" /> </p>
-<hr>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&hide=Shell&border_radius=0&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=vipulhere" alt="vipulhere" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
