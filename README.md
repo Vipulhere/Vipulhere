@@ -10,13 +10,7 @@
 </h3>
 
 <br/>
-<p>
-<a target="_blank"><img align="left" alt="gif" src="https://github.com/vipulhere/vipulhere/blob/main/gif.gif"  height="400" width="400"></a>
-<a target="_blank"><img align="right" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/vipulhere/vipulhere/blob/main/github.gif?raw=true"></a>
-    </p>
-<br/>
-<br/>
-<div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vipulhere&label=Profile%20views&color=0e75b6&style=flat" alt="vipulhere" /> </p>
     
 <div>
@@ -25,7 +19,7 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <br/>
-
+<a target="_blank"><img align="right" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/vipulhere/vipulhere/blob/main/github.gif?raw=true"></a>
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
