@@ -94,7 +94,7 @@
 </p>
 <br>  
 
-<!-- ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg) -->
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
 
 <!-- wave GIF start -->
 <div align="center" width="100%">
