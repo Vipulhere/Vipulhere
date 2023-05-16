@@ -16,8 +16,21 @@
 <div>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&hide=Shell&border_radius=0&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=vipulhere" alt="vipulhere" /></a> </p> -->
     
+<!-- github trophy start -->
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=vipulhere&theme=algolia&no-bg=true&no-frame=true">
+</div>
+<!-- github trophy end -->
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/>
+
+<!-- wave GIF start -->
+<div align="center" width="100%">
+    <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+</div>
+<!-- wave GIF end -->
+          
+<!-- <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 <br/>
 <a target="_blank"><img align="right" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/vipulhere/vipulhere/blob/main/github.gif?raw=true"></a>
@@ -81,4 +94,9 @@
 </div>
  
 
-</p
+</p>
+<!-- wave GIF start -->
+<div align="center" width="100%">
+    <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+</div>
+<!-- wave GIF end -->
