@@ -9,7 +9,11 @@
 </h3>
 
 <br/>
-
+    
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vipulhere&color=0e75b6&style=flat&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No." alt="vipulhere" /> </p>
     
 <div>
@@ -26,11 +30,7 @@
 <img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
     </div> -->
     
-    
-<p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p>
-    
+
     
 <!-- <p align="center">   
 <picture>
