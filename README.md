@@ -22,10 +22,12 @@
 <!-- github trophy end -->
 
 <br/>
-<div align="center" width="100%">
+<!-- <div align="center" width="100%">
 <img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
-    </div>
-
+    </div> -->
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
           
 <!-- <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
