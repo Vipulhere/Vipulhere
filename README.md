@@ -14,7 +14,7 @@
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
     
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipulhere&color=0e75b6&style=flat&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No." alt="vipulhere" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipulhere&color=0e75b6&style=flat&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No. " alt="vipulhere" /> </p>
     
 <div>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&hide=Shell&border_radius=0&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=vipulhere" alt="vipulhere" /></a> </p> -->
@@ -72,6 +72,7 @@
 <h2><i>Tech Stack</i></h2>
 
 <p>
+     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java />
     <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
