@@ -97,7 +97,7 @@
 
 <p >
  
-![Vipul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vipulhere&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)
+[![Vipul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vipulhere&bg_color=b1ece5&color=ff0000&line=99a12b&point=4baa6f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align='center'>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vipulhere&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  &nbsp;&nbsp;&nbsp;<img height="180em" src="https://streak-stats.demolab.com?user=Vipulhere&theme=cobalt"/>
