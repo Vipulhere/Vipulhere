@@ -53,15 +53,15 @@
     <a href="https://www.linkedin.com/in/vipul-kumar-8779292a2/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vipul-kumar-8779292a2/" />
     </a>
-    <a href="https://twitter.com/Vipulkumar1410">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Vipulkumar1410" />
-    </a>
+<!--     <a href="https://twitter.com/Vipulkumar">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Vipulkumar" />
+    </a> -->
 <!--     <a href="https://vipulkumar-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://vipulkumar-portfolio.netlify.app/" />
     </a> -->
-    <a title="krvipul@gmail.com" href="mailto:krvipul28@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="krvipul28@gmail.com" />
-    </a>
+<!--     <a title="krvipul@gmail.com" href="mailto:krvipul@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="krvipul@gmail.com" />
+    </a> -->
     
 <!--      <a href="https://www.instagram.com/vipulpedia/">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/vipulpedia/" />
