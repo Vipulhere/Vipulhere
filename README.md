@@ -2,10 +2,12 @@
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Vipul Kumar
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>- Currently Working as SQA Engineer skilled in Manual as well as Apps, Desktop & API's Automation testing. </i>
+    <br>
+    <i>- I'm also a Full Stack Web Developer by choice skilled in MERN stack who focuses on writing clean, elegant and efficient code. </i>
+    
 </h3>
 
 <br/>
@@ -97,7 +99,7 @@
 
 <p >
  
-[![Vipul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vipulhere&bg_color=b1ece5&color=ff0000&line=99a12b&point=4baa6f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Vipul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vipulhere&bg_color=000000&color=eeff00&line=968d4f&point=9faa4b&area=true&hide_border=true)
 <div align='center'>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vipulhere&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  &nbsp;&nbsp;&nbsp;<img height="180em" src="https://streak-stats.demolab.com?user=Vipulhere&theme=cobalt"/>
