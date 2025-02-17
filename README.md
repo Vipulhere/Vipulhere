@@ -56,9 +56,9 @@
     <a href="https://twitter.com/Vipulkumar1410">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Vipulkumar1410" />
     </a>
-    <a href="https://vipulkumar-portfolio.netlify.app/">
+<!--     <a href="https://vipulkumar-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://vipulkumar-portfolio.netlify.app/" />
-    </a>
+    </a> -->
     <a title="krvipul@gmail.com" href="mailto:krvipul28@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="krvipul28@gmail.com" />
     </a>
