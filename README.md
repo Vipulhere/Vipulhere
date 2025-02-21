@@ -17,7 +17,7 @@
 </p>
     
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=vipulhere&color=0e75b6&style=flat&label= 🍨_Nice_To_Meet_U!_You+are+my+visitor+No.  " alt="vipulhere" /> 
+    <img src="https://komarev.com/ghpvc/?username=vipulhere&color=0e75b6&style=flat&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.  " alt="vipulhere" /> 
 <br>
 <a href="https://github.com/vipulhere?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vipulhere?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
