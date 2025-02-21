@@ -17,7 +17,7 @@
 </p>
     
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=vipulhere&color=0e75b6&style=flat&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No. " alt="vipulhere" /> 
+    <img src="https://komarev.com/ghpvc/?username=vipulhere&color=0e75b6&style=flat&label= 🍨_Nice_To_Meet_U!_You+are+my+visitor+No.  " alt="vipulhere" /> 
 <br>
 <a href="https://github.com/vipulhere?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vipulhere?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -62,7 +62,7 @@
     
 </p>
 
-<summary><h2>🛠️ My Favorite Tools</h2></summary>
+<h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -132,10 +132,6 @@
   </p>
 
 
-
-<h2>
-<!--     <i>Tech Stack</i> -->
-</h2>
 
 <!--      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java />
     <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
