@@ -16,7 +16,14 @@
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
     
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipulhere&color=0e75b6&style=flat&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No. " alt="vipulhere" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=vipulhere&color=0e75b6&style=flat&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No. " alt="vipulhere" /> 
+<br>
+<a href="https://github.com/vipulhere?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vipulhere?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/vipulhere?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vipulhere?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>    </a>
+</p>
     
 <div>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&hide=Shell&border_radius=0&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=vipulhere" alt="vipulhere" /></a> </p> -->
@@ -28,22 +35,6 @@
 <!-- github trophy end -->
 
 <br/>
-<!-- <div align="center" width="100%">
-<img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
-    </div> -->
-    
-
-    
-<!-- <p align="center">   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipulhere&theme=nord_dark">
-  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipulhere&theme=nord_bright">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipulhere&theme=nord_dark">
-</picture>
-</p> -->
-          
-<!-- <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-
 <br/>
 <a target="_blank"><img align="right" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/vipulhere/vipulhere/blob/main/github.gif?raw=true"></a>
 <!----------------------------------- Social Media Links Section ------------------------------------>
