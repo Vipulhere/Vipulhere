@@ -19,23 +19,7 @@
   
   <h3><em>✨ Crafting Quality Software Solutions with Precision & Passion ✨</em></h3>
   
-  <br>
-  
-  <div>
-    <a href="https://www.linkedin.com/in/vipul-kumar-8779292a2/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:krvipul@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://github.com/vipulhere" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </div>
-  
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=vipulhere&color=0e75b6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
   
 </div>
 
@@ -43,30 +27,28 @@
 
 ## 👨‍💻 About Me
 
+```java
+public class VipulKumar {
+    private String role = "SQA Engineer";
+    private String[] skills = {
+        "Manual Testing",
+        "Test Automation",
+        "API Testing",
+        "Full Stack Development"
+    };
+    
+    public void work() {
+        while (true) {
+            writeCleanCode();
+            testThoroughly();
+            learnNewTech();
+            contributeToProjects();
+        }
+    }
+}
+```
+
 <div align="center">
-  
-  ```java
-  public class VipulKumar {
-      private String role = "SQA Engineer";
-      private String[] skills = {
-          "Manual Testing",
-          "Test Automation",
-          "API Testing",
-          "Full Stack Development"
-      };
-      
-      public void work() {
-          while (true) {
-              writeCleanCode();
-              testThoroughly();
-              learnNewTech();
-              contributeToProjects();
-          }
-      }
-  }
-  ```
-  
-  <br>
   
   <table>
     <tr>
@@ -304,13 +286,6 @@
   </blockquote>
   
 </div>
-
----
-
-## 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
